@@ -1,0 +1,20 @@
+h1 {
+    color:darkcyan;
+    text-align: center;
+
+}
+
+.card-body {
+    margin: 2vh;
+    background-color: rgb(244, 244, 244);
+}
+.card-title{
+    margin: 1vh;
+    background-color: rgb(244, 244, 244);
+}
+
+.icon img {
+    max-width: 80px;
+    max-height: 80px;
+    text-align: center;
+}

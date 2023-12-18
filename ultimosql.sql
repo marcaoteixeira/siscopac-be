@@ -1,0 +1,1 @@
+SELECT * FROM tab_conteudo WHERE id_tipo = 8 ORDER BY RIGHT(numjuris,4),numjuris descdbo.usuariodbo.produtoSisCopa
