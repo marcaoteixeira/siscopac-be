@@ -1,8 +1,8 @@
 // Conexão de produção
-//const database = "siscopa"
+const database = "siscopa"
 
 // Conexão de desenvolvimento
-const database = "siscopadesenv"
+//const database = "siscopadesenv"
 
 const knex = require('knex')({
     client: 'mssql',
